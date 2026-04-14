@@ -1,1 +1,2 @@
-function validate() {...}
+function validate() {}
+// Я ТЕБЯ ВЫЕБУУУУУУУУУУУУУУУУУУУУУУУУУУУУУУУУУ
